@@ -1,0 +1,3 @@
+﻿     Creating library D:\ProgrammingProjects\C++\PhysarumSlimeSimulation\x64\Debug\PhysarumSlimeSimulation.lib and object D:\ProgrammingProjects\C++\PhysarumSlimeSimulation\x64\Debug\PhysarumSlimeSimulation.exp
+OpenCL.obj : error LNK2019: unresolved external symbol cuda_texture_2d referenced in function "private: void __cdecl OpenCL::RunKernels(void)" (?RunKernels@OpenCL@@AEAAXXZ)
+D:\ProgrammingProjects\C++\PhysarumSlimeSimulation\x64\Debug\PhysarumSlimeSimulation.exe : fatal error LNK1120: 1 unresolved externals
